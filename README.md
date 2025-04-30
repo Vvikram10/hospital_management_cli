@@ -72,7 +72,9 @@ Doctor vikram added with ID: 68f9d93f
 ```
 
 Enter your choice: 5
+```
 ------- Doctors -------
+```
 ID: 68f9d93f, Name: vikram, Age: 23, Gender: male, Speciality: fever
 
 ```
@@ -89,7 +91,9 @@ Patient parikshit added with ID: c45fb345
 ========== Hospital Management ==========
 ```
 Enter your choice: 4
+```
 ------- Patients -------
+```
 ID: c45fb345, Name: parikshit, Age: 22, Gender: male, Illness: fever
 
 ```
@@ -105,7 +109,9 @@ Appointment scheduled for parikshit with Dr. vikram on 2025-04-30
 ========== Hospital Management ==========
 ```
 Enter your choice: 7
+```
 ------- Appointments -------
+```
 ID: e1ed6cf1, Patient: parikshit, Doctor: Dr. vikram, Date: 2025-04-30
 
 ```
