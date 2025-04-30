@@ -38,7 +38,7 @@ hospital-management-system/
 ## Outputs 
 
 
-- Python 3.x
+- Python 3.10
 - OOP Concepts (`Classes`, `Inheritance`)
 - UUID for unique ID generation
 - CLI Input/Output
